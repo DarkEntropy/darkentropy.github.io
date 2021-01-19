@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>guild on Dark Entropy</title>
+    <link>https://darkentropy.github.io/tags/guild/</link>
+    <description>Recent content in guild on Dark Entropy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://darkentropy.github.io/tags/guild/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guild Charter</title>
+      <link>https://darkentropy.github.io/posts/guildcharter/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkentropy.github.io/posts/guildcharter/</guid>
+      <description>Dark Entropy&amp;rsquo;s Mission Statement Dark Entropy aims to provide a fun, “casual hardcore” environment for its players. Our goal is to clear all current content as rapidly as is reasonably possible upon release, with the intention of having two balanced 25 man raid groups comprising of members, alts, and raiders once the content is reliably cleared.
+We require reasonable consumable usage (potions, flasks, food, etc…) and it is appreciated when people bring extras of these to raids.</description>
+    </item>
+    
+    <item>
+      <title>Loot System</title>
+      <link>https://darkentropy.github.io/posts/loot/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://darkentropy.github.io/posts/loot/</guid>
+      <description>Dark Entropy Loot System Loot Council. Exact details TBD.</description>
+    </item>
+    
+  </channel>
+</rss>
