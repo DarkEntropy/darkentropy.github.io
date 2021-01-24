@@ -7,4 +7,4 @@ To do updates:
 - Clone the repo
 - Update the files needed (`config.toml` for the landing page, `content/posts/*.md` for anything under "About")
 - Rebuild the website by running `hugo -D`
-- Push your changes, and the website will be updated automatically.
+- Push your changes, and the website will be updated automatically (after a rebuild, which can take a few minutes)
