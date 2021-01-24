@@ -1,5 +1,4 @@
-# darkentropy.github.io
-Website
+# This repo powers the guild website
 
 Uses [Hugo](https://gohugo.io/). 
 
