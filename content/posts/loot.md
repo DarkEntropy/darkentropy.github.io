@@ -9,7 +9,7 @@ toc = true
 
 # Dark Entropy Loot System
 
-Dark Entropy uses a Loot Council system for loot distribution in the core raid.
+Dark Entropy uses a Loot Council system for loot distribution in the RAID-CORE group.
 
 - Loot will be distributed by the officers as seen fit.
 - Loot distribution will be based on a variety of factors including but not limited to:
@@ -26,4 +26,4 @@ Dark Entropy uses a Loot Council system for loot distribution in the core raid.
 
 - The addon RCLC will be used for voting, rolling, and dstribution of loot.
 
-- Any official guild raids outside the core raid will use a modified rolling system (e.g. +1) to maintain simplicity and speed.
+- Any official guild raids outside RAID-CORE will use a modified rolling system (e.g. +1) to maintain simplicity and speed.
