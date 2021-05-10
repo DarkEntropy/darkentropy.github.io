@@ -93,27 +93,27 @@ We ask that our players show up to raids prepared with consumables, knowing thei
 - Similar to raiders, we ask that you confirm attendance on discord well in advance of the raid for planning purposes. 
 
 ### Officer Expectations:
-- Be exemplary in your conduct and professional in the performance of your duties
-	- Exhibit professionalism when coaching members 
-	- Safeguard the stability of the guild by maintaining civility at all times to officers/members
-	- Maintain the reputation of the guild by exhibiting appropriate conduct towards anyone you encounter in game 
-	- Remain calm and constructive during raids
-- Be knowledgeable in your class/role, understand encounters, and be prepared to direct the players of your class/role
-	- Understand all relevant specs of your class
-	- Research ahead for future tiers
-	- Understand gear implications for loot council purposes
+- Be exemplary in your conduct and professional in the performance of your duties.
+	- Exhibit professionalism when coaching members.
+	- Safeguard the stability of the guild by maintaining civility at all times to officers/members.
+	- Maintain the reputation of the guild by exhibiting appropriate conduct towards anyone you encounter in game.
+	- Remain calm and constructive during raids.
+- Be knowledgeable in your class/role, understand encounters, and be prepared to direct the players of your class/role.
+	- Understand all relevant specs of your class.
+	- Research ahead for future tiers.
+	- Understand gear implications for loot council purposes.
 - Work with players in your class/role to improve their performance where needed, either 1-on-1 or in a group setting.
-	- Be thorough, diligent and constructive-
-	- provide notes, detailed analysis, and encouragement to improve
+	- Be thorough, diligent, and constructive.
+	- provide notes, detailed analysis, and encouragement to improve.
 - Lead by example, meeting and exceeding the Raider expectations.
 	- Conduct self-analysis and accept criticism!  
-- Assist raid leaders 
-	- Maintain balance through identifying player availability and capability
-	- Handle invites and group building on raid nights when needed
-	- Participate in strategy and loot distribution discussions as needed
-- Maintain awareness of the pulse of your class/role
-	- Identify any issues or concerns as soon as possible
-	- Collaborate with other officers to work toward solutions as needed
+- Assist raid leaders.
+	- Maintain balance through identifying player availability and capability.
+	- Handle invites and group building on raid nights when needed.
+	- Participate in strategy and loot distribution discussions as needed.
+- Maintain awareness of the pulse of your class/role.
+	- Identify any issues or concerns as soon as possible.
+	- Collaborate with other officers to work toward solutions as needed.
 - Provide feedback on new members and promotions, and support recruiting efforts.
 
 ### "Raid Leader" Expectations:
@@ -121,35 +121,47 @@ We ask that our players show up to raids prepared with consumables, knowing thei
 - Handle issues that arise during the raid. Make the final call on in-raid decisions if needed.
 - Summarize past "lessons learned" or special "things to try" before bosses in order to improve raid performance (eg: positioning, tactics, etc…).
 - Observe the raid, and afterwards summarize what went well / what could be improved / your recommendations. 
-	- Communicate the learnings to other officers, and to raid leader of secondary raid when relevant
-- Work to maintain focus during raid
-	- Fun is good! But do not let goofery get out of control
+	- Communicate the learnings to other officers, and to raid leader of secondary raid when relevant.
+- Work to maintain focus during raid.
+	- Fun is good! But do not let goofery get out of control.
+
 ## Raider Class Specific Expectations:
 
 ### Rogues
-- TBD
+- Gear
+  - Much of the early-mid BC BiS items are obtainable outside of raids. Ensure you obtain these pieces as soon as possible.
+  - Blacksmithing is encouraged, but not required, due to the weapon being BiS until T5.
+    - Note: Due to the small number of rogues we are running, and the relative performance of Dragonmaw with Spiteblade, BSing is encouraged if you wish to accelerate gear accrual.
+  - Aldor exalted is recommended.
+
+- Raiding
+  - Do damage, don't die to avoidable mechanics, interrupt things that need interrupts.
+  - Show up prepared, understanding encounter mechanics and having studied boss strats in advance.
+  - Be in the melee DPS in-game channel. 
 
 ### Mages
 - Gear
 	- Much of the early-mid BC BiS items are obtainable outside of raids. Ensure you obtain these pieces as soon as possible. 
 	- Tailoring is required for all raiding mages due to the BiS sets for fire. 
 	- Scryer exalted is preferred due to BiS ring, enchant and Trinket.  
+
 - Spec
 	- For early BC the appropriate spec is fire, with the option to switch to arcane+fire with 2pc T5. 
+
 - Raiding
 	- Read chat and acknlowledge assignments for sheeps etc.
-	- Keep AI buffed
+	- Keep AI buffed.
 	- Provide max-level food and water as needed. 
 	
-### ShadowPriests
+### Shadow Priests
 - Gear
  	- Much of the early-mid BC BiS items are obtainable outside of raids. Ensure you obtain these pieces as soon as possible. 
 	- Tailoring is recommended for all raiding shadowpriests due to the BiS sets for shadow. Frozen Shadoweave and Spellstrike sets. 
 	- Scryer exalted is required.  Cennarion Expedition exalted is recommended as well.  Both of these reputations have bis ring offerings.
 
 - Raiding
-	- Vampiric Touch uptime is paramount
-	- Awareness of threat
+	- Vampiric Touch uptime is paramount.
+	- Awareness of threat.
 	- A Dead shadow priest offers no benefit to the raid, so avoid death by making the correct decisions on Shadow Word: Death. 
 
 ### Healing Druids / Priests / Shaman / Paladins
@@ -157,15 +169,15 @@ We ask that our players show up to raids prepared with consumables, knowing thei
  	- Much of the early-mid BC BiS items are obtainable outside of raids. Ensure you obtain these pieces as soon as possible. 
 	- Tailoring is recommended for all raiding healers. It is not required due to the cost of attaining this gear comparative substitutions are available.
 	- Leatherworking and Blacksmithing gives Druids / Shaman / Paladins access to a wider array of healing gear options.
-	- Lower City Revered is recommended for the Prayerbook.  Thrallmar revered is recommended as well for the Ancestral Band
+	- Lower City Revered is recommended for the Prayerbook.  Thrallmar revered is recommended as well for the Ancestral Band.
 
 - Spec
 	- Spec's will be determined prior to raid nights depending on the needs of the fight.  This will demonstrate the value of healer communication and teamwork.
 
 - Raiding
 	- Prior study of all raid encounters is required.  
-	- Communication within the healer channel is required
-	- Understand your responsibility and assignment before each fight by using the healer repo
+	- Communication within the healer channel is required.
+	- Understand your responsibility and assignment before each fight by using the healer repo.
 	
 ### Boomkin Druid
 - TBD
@@ -181,18 +193,20 @@ We ask that our players show up to raids prepared with consumables, knowing thei
 	- Much of the early-mid BC BiS items are obtainable outside of raids. Ensure you obtain these pieces as soon as possible. 
 	- Tailoring is required for all raiding warlocks due to the BiS sets for fire and shadow. 
 	- Scryer or Aldor exalted is required. Scryer preferred due to BiS ring.  
+
 - Spec
 	- Allowed specs in early BC are: shadow or fire destro, full demo, and affliction. 
 		- Destro will be the baseline spec throughout BC. Please ensure you are geared appropriately for either fire or shadow. 
 		- There will be one affliction slot in raids so please coordinate this with the appropriate officer. 
 		- If full demo please ensure you can capably control your pet to maximize damage output and pet survivability. If DPS output as demo is not adequate you will be asked to switch to destro. 
+
 - Raiding
-	- Come to raid with appropriate number of shards
-	- Read warlock chat and acknlowledge assignments 
-	- Coordinate soulstones with other warlocks
-		- Use designated addon
-	- Keep assigned curse uptime near 100% 
-	- Provide healthstones to raid as needed
+	- Come to raid with appropriate number of shards.
+	- Read warlock chat and acknlowledge assignments. 
+	- Coordinate soulstones with other warlocks.
+		- Use designated addons.
+	- Keep assigned curse uptime near 100%.
+	- Provide healthstones to raid as needed.
 	
 
 ### Hunters
