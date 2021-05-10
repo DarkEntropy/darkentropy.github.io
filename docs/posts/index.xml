@@ -242,8 +242,8 @@ The guild consists largely of old friends from early retail WoW. We want to prov
 <li>Gear
 <ul>
 <li>Much of the early-mid BC BiS items are obtainable outside of raids. Ensure you obtain these pieces as soon as possible.</li>
-<li>Tailoring is required for all raiding warlocks due to the BiS sets for fire and shadow.</li>
-<li>Scryer or Aldor exalted is required. Scryer preferred due to BiS ring.</li>
+<li>Tailoring is required for all raiding mages due to the BiS sets for fire.</li>
+<li>Scryer exalted is preferred due to BiS ring, enchant and Trinket.</li>
 </ul>
 </li>
 <li>Spec
@@ -259,15 +259,56 @@ The guild consists largely of old friends from early retail WoW. We want to prov
 </ul>
 </li>
 </ul>
-<h3 id="priests">Priests</h3>
+<h3 id="shadowpriests">ShadowPriests</h3>
+<ul>
+<li>
+<p>Gear</p>
+<ul>
+<li>Much of the early-mid BC BiS items are obtainable outside of raids. Ensure you obtain these pieces as soon as possible.</li>
+<li>Tailoring is recommended for all raiding shadowpriests due to the BiS sets for shadow. Frozen Shadoweave and Spellstrike sets.</li>
+<li>Scryer exalted is required.  Cennarion Expedition exalted is recommended as well.  Both of these reputations have bis ring offerings.</li>
+</ul>
+</li>
+<li>
+<p>Raiding</p>
+<ul>
+<li>Vampiric Touch uptime is paramount</li>
+<li>Awareness of threat</li>
+<li>A Dead shadow priest offers no benefit to the raid, so avoid death by making the correct decisions on Shadow Word: Death.</li>
+</ul>
+</li>
+</ul>
+<h3 id="healing-druids--priests--shaman--paladins">Healing Druids / Priests / Shaman / Paladins</h3>
+<ul>
+<li>
+<p>Gear</p>
+<ul>
+<li>Much of the early-mid BC BiS items are obtainable outside of raids. Ensure you obtain these pieces as soon as possible.</li>
+<li>Tailoring is recommended for all raiding healers. It is not required due to the cost of attaining this gear comparative substitutions are available.</li>
+<li>Leatherworking and Blacksmithing gives Druids / Shaman / Paladins access to a wider array of healing gear options.</li>
+<li>Lower City Revered is recommended for the Prayerbook.  Thrallmar revered is recommended as well for the Ancestral Band</li>
+</ul>
+</li>
+<li>
+<p>Spec</p>
+<ul>
+<li>Spec&rsquo;s will be determined prior to raid nights depending on the needs of the fight.  This will demonstrate the value of healer communication and teamwork.</li>
+</ul>
+</li>
+<li>
+<p>Raiding</p>
+<ul>
+<li>Prior study of all raid encounters is required.</li>
+<li>Communication within the healer channel is required</li>
+<li>Understand your responsibility and assignment before each fight by using the healer repo</li>
+</ul>
+</li>
+</ul>
+<h3 id="boomkin-druid">Boomkin Druid</h3>
 <ul>
 <li>TBD</li>
 </ul>
-<h3 id="healing-druids--priests--shaman">Healing Druids / Priests / Shaman</h3>
-<ul>
-<li>TBD</li>
-</ul>
-<h3 id="druids">Druids</h3>
+<h3 id="feral-druid">Feral Druid</h3>
 <ul>
 <li>TBD</li>
 </ul>
