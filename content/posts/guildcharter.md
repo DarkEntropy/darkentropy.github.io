@@ -149,13 +149,13 @@ We ask that our players show up to raids prepared with consumables, knowing thei
 
 - Raiding
 	- Vampiric Touch uptime is paramount
-	- Keep aware of threat
+	- Awareness of threat
 	- A Dead shadow priest offers no benefit to the raid, so avoid death by making the correct decisions on Shadow Word: Death. 
 
 ### Healing Druids / Priests / Shaman / Paladins
 - Gear
  	- Much of the early-mid BC BiS items are obtainable outside of raids. Ensure you obtain these pieces as soon as possible. 
-	- Tailoring is recommended for all raiding healers. It is not required due to the cost of attaining this gear comparative substitutions are available.\
+	- Tailoring is recommended for all raiding healers. It is not required due to the cost of attaining this gear comparative substitutions are available.
 	- Leatherworking and Blacksmithing gives Druids / Shaman / Paladins access to a wider array of healing gear options.
 	- Lower City Revered is recommended for the Prayerbook.  Thrallmar revered is recommended as well for the Ancestral Band
 
