@@ -15,22 +15,19 @@ While we absolutely want Dark Entropy to be a home for all of our community, thi
 # Second Raid Team
 
 Dark Entropy supports a second raid team (RAID-B) in addition to our core raid team (RAID-CORE). The second team provides the following benefits:
-- A mechanism for our casual players, friends and family, and alts to raid. 
-- A feeder for RAID-CORE: when we inevitably lose players from RAID-CORE we can bring promising candidates up from RAID-B.
+- A raiding home for those not included in RAID-CORE
+- A larger community to support gameplay outside of raiding  (bg's, arena, old content, 10-mans)
 
 The framework for RAID-B will be as follows:
-- RAID-B will be largely autonomous.
-- Loot will be distributed via simple rolling system that requires no maintenance (e.g. +1).
+- RAID-B will be largely autonomous 
+- Loot will be distributed via simple rolling system that requires no maintenance (e.g. +1)
 - Raid times will be determined based on availability of participating players. 
-- Recruiting for RAID-B will be conducted as needed to ensure healthy attendance and composition.
+- Recruiting for RAID-B will be conducted as needed to ensure healthy attendance and composition
 - The officers will designate one or more official Raid Leaders for RAID-B. 
-	- RL will have the same responsibilities as RAID-CORE raid leader
-	- RL will be responsible for conducting the raid in a pleasant and effective manner.
-	- RL can delegate tasks as needed but will be responsible for the results. 
-	
+  - RL will have the same responsibilities as RAID-CORE raid leader
+  - RL will be responsible for conducting the raid in a pleasant and effective manner.
+  - RL can delegate tasks as needed but will be responsible for the results. 
+  
 Additional notes
-- RAID-B will in no circumstances be allowed to negatively impact the success or performance of RAID-CORE.
-- RAID-B is inteded to provide a casual, but focused environment for those not in RAID-CORE.
-- No loot prio for RAID-CORE members attending a RAID-B raid. 
-
-
+- RAID-B will in no circumstances be allowed to negatively impact the success or performance of RAID-CORE and Vice Versa
+- RAID-B is inteded to provide a focused environment for those not in RAID-CORE
