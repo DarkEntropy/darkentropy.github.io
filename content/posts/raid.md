@@ -29,5 +29,4 @@ The framework for RAID-B will be as follows:
   - RL can delegate tasks as needed but will be responsible for the results. 
   
 Additional notes
-- RAID-B will in no circumstances be allowed to negatively impact the success or performance of RAID-CORE and Vice Versa.
 - RAID-B is inteded to provide a focused environment for those not in RAID-CORE.
