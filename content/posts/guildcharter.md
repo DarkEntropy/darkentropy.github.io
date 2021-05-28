@@ -15,11 +15,9 @@ Our goal is to clear all current content as rapidly as is reasonably possible up
 
 The guild consists largely of old friends from early retail WoW. We want to provide a friendly environment and home for all of our players, but participation in the core raid team will be based exclusively on class/role needs and performance. 
 
-We will run one core raid team, and support a secondary raid team for our players that are not included in the 25-man core. 
-
 We require appropriate consumable usage (potions, flasks, food, etc…) and it is appreciated when people bring extras of these to raids. 
 
-Our raid times are 8PM to ~11:30PM (sometimes Midnight during progression) server time, days TBD currently. Invites start at 7:30PM. We may occasionally schedule off-night raids for content like ZA, older content, etc... however these are not mandatory.
+Our raid times are 8PM to ~11:30PM (sometimes Midnight during progression) server time, Thursday and Friday. Invites start at 7:30PM with the expectation that we can pull at 8PM. We may occasionally schedule off-night raids for content like Zul'Aman, older content, etc... however these are not mandatory.
 
 We ask that our players show up to raids prepared with consumables, knowing their class, boss strategies, and to remain present and attentive during our 6-8 hours of raiding per week.
 
