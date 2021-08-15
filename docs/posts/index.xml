@@ -388,12 +388,12 @@ The guild consists largely of old friends from early retail WoW. We want to prov
 			<pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
 			
 			<guid>https://darkentropy.github.io/posts/loot/</guid>
-			<description>Dark Entropy Loot System Dark Entropy uses a Loot Council system for loot distribution in the RAID-CORE group.
+			<description>Dark Entropy Loot System Dark Entropy uses a Loot Council system for loot distribution in 25-man content.
   Loot will be distributed by the officers as seen fit.
   Loot distribution will be based on a variety of factors including but not limited to:
- Performance in raids Preparedness Attendance Conduct Raid needs (e.g. tank gear prio)    We will make an effort to provide a reasonable level of transparency to the Loot Council process.</description>
+ Performance in raids Preparedness Attendance Conduct Raid needs (e.g. tank gear prio)    We make an effort to provide a reasonable level of transparency to the Loot Council process.</description>
 			<content type="html"><![CDATA[<h1 id="dark-entropy-loot-system">Dark Entropy Loot System</h1>
-<p>Dark Entropy uses a Loot Council system for loot distribution in the RAID-CORE group.</p>
+<p>Dark Entropy uses a Loot Council system for loot distribution in 25-man content.</p>
 <ul>
 <li>
 <p>Loot will be distributed by the officers as seen fit.</p>
@@ -409,7 +409,7 @@ The guild consists largely of old friends from early retail WoW. We want to prov
 </ul>
 </li>
 <li>
-<p>We will make an effort to provide a reasonable level of transparency to the Loot Council process.</p>
+<p>We make an effort to provide a reasonable level of transparency to the Loot Council process.</p>
 <ul>
 <li>Most discussions will be private among the officers</li>
 <li>Non-officer input will be solicited as needed</li>
@@ -417,10 +417,10 @@ The guild consists largely of old friends from early retail WoW. We want to prov
 </ul>
 </li>
 <li>
-<p>The addon RCLC will be used for voting, rolling, and dstribution of loot.</p>
+<p>The addon RCLC will be used for voting, rolling, and distribution of loot.</p>
 </li>
 <li>
-<p>Any official guild raids outside RAID-CORE will use a modified rolling system (e.g. +1) to maintain simplicity and speed.</p>
+<p>Any official guild raids outside of 25-mans will use an alternate system (e.g. +1 or group loot) to maintain simplicity and speed.</p>
 </li>
 </ul>
 ]]></content>
