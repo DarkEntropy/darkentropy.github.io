@@ -3,6 +3,7 @@
 Uses [Hugo](https://gohugo.io/). 
 
 To do updates: 
-- Clone the repo
+- Clone the repo or use the web editor.
 - Update the files needed (`config.toml` for the landing page, `content/posts/*.md` for anything under "About")
 - Push your changes, and the website will be updated automatically (after a rebuild, which can take a few minutes)
+
